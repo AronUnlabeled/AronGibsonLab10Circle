@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.exe
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.deps.json
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.dll
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\ref\AronGibsonLab10Circle.dll
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\bin\Debug\net5.0\AronGibsonLab10Circle.pdb
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.dll
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\ref\AronGibsonLab10Circle.dll
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.pdb
+C:\Users\aron\source\repos\AronGibsonLab10Circle\AronGibsonLab10Circle\obj\Debug\net5.0\AronGibsonLab10Circle.genruntimeconfig.cache
