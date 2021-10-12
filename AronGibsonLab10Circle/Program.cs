@@ -12,7 +12,7 @@ namespace AronGibsonLab10Circle
             do
             {
                 circlesCalculated += 1;
-                Circle c = new Circle(IntValidator());    
+                Circle c = new Circle(DoubleValidator());    
                 Console.WriteLine($"Circumference {c.CalculateFormattedCircumference()}");
                 Console.WriteLine($"Area: {c.CalculateFormattedArea()}");
                 again = AgainValidator();
@@ -21,14 +21,14 @@ namespace AronGibsonLab10Circle
             Console.WriteLine($"goodbye, You created {circlesCalculated} circle objects");
 
         }
-        public static int IntValidator()
+        public static double DoubleValidator()
         {
             do
             {
                 Console.WriteLine("enter radius ");
                 try
                 {
-                    int num = int.Parse(Console.ReadLine());
+                    double num = double.Parse(Console.ReadLine());
                     return num;
                 }
                 catch (FormatException)
